@@ -1,0 +1,6 @@
+{
+  "name": "MoreSpace License Portal",
+  "description": "Secure portal for generating MoreSpace service license keys with automated API integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
